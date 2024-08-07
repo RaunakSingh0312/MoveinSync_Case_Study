@@ -1,7 +1,8 @@
-🚖 Ride-Sharing Platform
+***🚖 Ride-Sharing Platform***
+
 A case study/analysis on how to build full-stack ride-sharing platform built with code snippets from MERN stack (MongoDB, Express.js, React.js, Node.js) that allows users to share rides, track trips, and provide feedback. The platform includes three distinct user roles: Traveler, Traveler Companion, and Admin, each with specific functionalities.
 
-✨ Features
+***✨ Features***
 
 Traveler:
 Share ride details (e.g., Trip ID, Driver Name, Driver Phone Number, cab number) through SMS.
